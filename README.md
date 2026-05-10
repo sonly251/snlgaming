@@ -77,3 +77,6 @@ Adafruit GFX Library
 Adafruit SSD1306
 Wire (встроенная)
 EEPROM (встроенная)
+
+git clone https://github.com/Sonly251/snl-gaming-firmware.git
+cd snl-gaming-firmware
