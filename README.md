@@ -77,5 +77,6 @@ EEPROM (встроенная)
 
 ### 2. Копирование репозитория
 
+```cpp
 git clone https://github.com/Sonly251/snl-gaming-firmware.git
 cd snl-gaming-firmware
