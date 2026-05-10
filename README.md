@@ -22,9 +22,6 @@
 - [Виртуальный питомец](#-виртуальный-питомец-minigotchi)
 - [Управление](#-управление)
 - [Настройки](#-настройки)
-- [Скриншоты](#-скриншоты)
-- [Версии](#-версии)
-- [Автор](#-автор)
 
 ---
 
@@ -77,6 +74,8 @@ Adafruit GFX Library
 Adafruit SSD1306
 Wire (встроенная)
 EEPROM (встроенная)
+
+### 2. Копирование репозитория
 
 git clone https://github.com/Sonly251/snl-gaming-firmware.git
 cd snl-gaming-firmware
